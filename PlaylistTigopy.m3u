@@ -1,0 +1,10 @@
+#EXTINF:-1 group-title="TIGO SPORTS EVENTOS", TIGO EVENTOS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HGKiFqX-Qj-VnLHKAvYtgw","k":"VPL9yDwdozzZJpvyHgghjA"}],"type":"temporary"}
+https://sam-py-edge04.tigo.com.py/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+
+#EXTINF:-1 group-title="TIGO SPORTS EVENTOS", TIGO EVENTOS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"SbLA5wNwQrKv-fBk4LszEQ","k":"g4SeMK34VEBVApJpMUf79w"}],"type":"temporary"}
+https://sam-py-edge04.tigo.com.py/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+
